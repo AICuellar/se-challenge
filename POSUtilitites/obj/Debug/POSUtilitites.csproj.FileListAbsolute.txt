@@ -1,5 +1,0 @@
-C:\Users\CuellaAl\Documents\Visual Studio 2017\Projects\POSUtilitites\POSUtilitites\bin\Debug\POSUtilitites.dll
-C:\Users\CuellaAl\Documents\Visual Studio 2017\Projects\POSUtilitites\POSUtilitites\bin\Debug\POSUtilitites.pdb
-C:\Users\CuellaAl\Documents\Visual Studio 2017\Projects\POSUtilitites\POSUtilitites\obj\Debug\POSUtilitites.csproj.CoreCompileInputs.cache
-C:\Users\CuellaAl\Documents\Visual Studio 2017\Projects\POSUtilitites\POSUtilitites\obj\Debug\POSUtilitites.dll
-C:\Users\CuellaAl\Documents\Visual Studio 2017\Projects\POSUtilitites\POSUtilitites\obj\Debug\POSUtilitites.pdb
